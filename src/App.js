@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <div className='container'> 
-          <Header></Header>
+          <Header name='sathish'></Header>
       </div>
       <Footer></Footer>
     </div>
